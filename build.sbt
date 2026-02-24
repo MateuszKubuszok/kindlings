@@ -25,7 +25,7 @@ val versions = new {
 
   // Dependencies.
   val circe = "0.14.15"
-  val hearth = "0.2.0-229-g36ee579-SNAPSHOT"
+  val hearth = "0.2.0-231-gca4c6ac-SNAPSHOT"
   val jsoniterScala = "2.38.9"
   val avro = "1.12.0"
   val scalaYaml = "0.3.1"
