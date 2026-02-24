@@ -30,7 +30,7 @@ val versions = new {
   val avro = "1.12.0"
   val scalaYaml = "0.3.1"
   val kindProjector = "0.13.4"
-  val munit = "1.2.1"
+  val munit = "1.2.2"
   val scalacheck = "1.19.0"
 
   // Explicitly handle Scala 2.13 and Scala 3 separately.
