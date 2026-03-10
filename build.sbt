@@ -33,7 +33,7 @@ val versions = new {
   val tapir = "1.13.10"
   val refined = "0.11.3"
   val iron = "3.3.0"
-  val scalaXml = "2.3.0"
+  val scalaXml = "2.4.0"
 
   // Explicitly handle Scala 2.13 and Scala 3 separately.
   def fold[A](scalaVersion: String)(for2_13: => Seq[A], for3: => Seq[A]): Seq[A] =
